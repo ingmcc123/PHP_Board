@@ -1,5 +1,9 @@
 # PHP_Board
 
+This is PHP Board.
+
+PHP7 + MySQL8
+
 
 ![1](https://user-images.githubusercontent.com/43161094/55966565-9f1ead80-5cb3-11e9-95cd-e752409679b4.jpg)
 ![2](https://user-images.githubusercontent.com/43161094/55966566-9fb74400-5cb3-11e9-9744-34ab204eaf4b.jpg)
